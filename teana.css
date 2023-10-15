@@ -101,3 +101,10 @@ body {
     color: white;
     text-decoration: none;
 }
+img{
+    width: 160px;
+}
+figcaption{
+    font-size: x-small;
+    color: gray;
+}

@@ -13,3 +13,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 ##CSS:
 
 1. I changed images to be 160px
+2. I changed the fig caption font size to x-small
+3. I changed the fig caption font color to gray
