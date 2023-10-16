@@ -18,3 +18,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 4. I changed the paragraph font color to black
 5. I changed the unordered list color to black
 6. I changed the unordered list font size to smaller
+7. I changed the unordered list font to be italicized
