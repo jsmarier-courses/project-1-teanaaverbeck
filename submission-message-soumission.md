@@ -29,4 +29,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 15. I changed the current page link background color to #b183ce shade of purple
 16. I changed the top menu background color to #190835 shade of purple 
 17. I changed the logo background color to #190835 shade of purple
-18. 
+18. I changed the footer color to #190835 shade of purple
+19. I changed the footer content opacity to 95%

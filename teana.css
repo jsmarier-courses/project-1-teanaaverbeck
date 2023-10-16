@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #e6f9f9;
 }
 
 .top-bar {
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: #e6f9f9;
     z-index: 1;
 }
 
@@ -89,12 +89,13 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color:#190835;
 }
 
 .footer-content {
     padding: 5px 5px 5px 20px;
     color: white;
+    opacity: 95%;
 }
 
 .footer-content a:link {
