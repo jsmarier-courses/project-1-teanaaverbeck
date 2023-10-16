@@ -24,3 +24,4 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 10. I changed the color of the border around the fig caption to aquamarine
 11. I changed all items with the class Location to the font size larger
 12. I changed all items with the class Location to the same color as the explore bar #131359
+13. I changed the font weight to the fig caption to thin
