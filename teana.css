@@ -111,3 +111,7 @@ figcaption{
 p{
     color:black
 }
+ul{
+    color:black;
+    font-size: smaller;
+}
