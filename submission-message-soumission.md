@@ -20,3 +20,5 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 6. I changed the unordered list font size to smaller
 7. I changed the unordered list font to be italicized
 8. I changed the border radius of the images to be rounded 
+9. I added a border around the fig caption
+10. I changed the color of the border around the fig caption to aquamarine

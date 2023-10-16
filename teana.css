@@ -117,3 +117,6 @@ ul{
     font-size: smaller;
     font-style: italic;
 }
+figcaption{
+    border: 2px solid aquamarine;
+}
